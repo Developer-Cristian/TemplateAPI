@@ -9,7 +9,7 @@ Thanks to https://www.linkedin.com/pulse/how-create-custom-multi-project-net-tem
 
 How to use: 
 
-1. Go to C:\Users\<UserName>\Documents\Visual Studio 2022\Templates\ProjectTemplates
+1. Go to C:\Users\\<UserName>\Documents\Visual Studio 2022\Templates\ProjectTemplates
 2. Add this file
 3. Open VS and go to Create a new project
 4. Select My Template and insert the name that you want
